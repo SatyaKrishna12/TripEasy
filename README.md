@@ -8,7 +8,7 @@ Service & Rental Options: Users can select from available autos and bikes for tr
 User-Friendly Interface: Easy navigation and smooth transitions for a seamless user experience.
 Dynamic Interaction: JavaScript-powered functionality to enhance user interactivity and dynamic content updates.
 <br><br>
-<b>🛠️ Technologies Used<b/>
-HTML: For structuring the content of the webpage.
-CSS: For styling the layout and elements of the webpage.
-JavaScript: For adding interactivity and handling dynamic features.
+<b>🛠️ Technologies Used</b><br>
+<b>HTML:</b> For structuring the content of the webpage.<br>
+<b>CSS:</b> For styling the layout and elements of the webpage.<br>
+<b>JavaScript:</b> For adding interactivity and handling dynamic features.
