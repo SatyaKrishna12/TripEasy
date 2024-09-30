@@ -4,7 +4,7 @@ This is a responsive webpage designed for a transportation service where users c
 
 🌟 Features<br>
 <b>Responsive Design:</b> Fully responsive design that adapts to all screen sizes, including mobile, tablet, and desktop.<br>
-<b>Service & Rental Options: Users can select from available autos and bikes for transportation services or rent them as needed.<br>
+<b>Service & Rental Options:</b> Users can select from available autos and bikes for transportation services or rent them as needed.<br>
 <b>User-Friendly Interface:</b> Easy navigation and smooth transitions for a seamless user experience.<br>
 <b>Dynamic Interaction:</b> JavaScript-powered functionality to enhance user interactivity and dynamic content updates.
 <br><br>
